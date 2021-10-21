@@ -9,7 +9,7 @@ int main()
     cin>>b;
     cout<<"addiion is "<<a+b<<endl;   //addition of two nos
     cout<<"subtraction is "<<a-b<<endl;  //subtraction of two nos
-    cout<<"multiplication is "<<a*b<<endl;
+    cout<<"multiplication is "<<a*b<<endl; //multiplication of two nos
     cout<<"division is "<<(float)a/b<<endl;
     return 0;
 
