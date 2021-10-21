@@ -7,7 +7,7 @@ int main()
     cin>>a;
     cout<<"Enter the second number: ";
     cin>>b;
-    cout<<"addiion is "<<a+b<<endl;
+    cout<<"addiion is "<<a+b<<endl;   //addition of two nos
     cout<<"subtraction is "<<a-b<<endl;
     cout<<"multiplication is "<<a*b<<endl;
     cout<<"division is "<<(float)a/b<<endl;
